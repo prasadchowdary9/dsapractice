@@ -69,7 +69,8 @@ public class LL {
         temp.next = newNode;
 
 	}
-
+public void dummy(){}
+	
 	public void display() {
 		Node temp = head;
 		while(temp != null) {
